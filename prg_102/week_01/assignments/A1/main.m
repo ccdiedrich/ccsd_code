@@ -1,5 +1,7 @@
 % this is a comment
 
+% THIS IS A COMMENT on 03/28/2017 @ 3:38 PM
+
 % in the line below I an clearing any previosly declared variable
 clear all;
 
