@@ -2,6 +2,10 @@
 # Filtering out image BMPs
 *.bmp
 
+# filtering out zip files from folder week_01
+prg_102/*.zip
+prg_102/week_01/*.zip
+
 Thumbs.db
 ehthumbs.db
 
