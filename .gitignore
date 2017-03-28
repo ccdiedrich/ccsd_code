@@ -1,4 +1,7 @@
-# Windows image file caches
+
+# Filtering out image BMPs
+*.bmp
+
 Thumbs.db
 ehthumbs.db
 
