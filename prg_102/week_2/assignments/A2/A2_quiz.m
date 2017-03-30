@@ -25,3 +25,11 @@ for i = 3 : 1 : 100
 terms ( i ) = terms (i - 1 ) + terms ( i - 2 )
 
 end
+
+hold on;
+grid on;
+axis on;
+
+xlabel( "1 through 100 (Indices)" );
+ylabel( "Fibonacci" );
+plot( [1:1:100], terms, 'LineWidth', 3 );
