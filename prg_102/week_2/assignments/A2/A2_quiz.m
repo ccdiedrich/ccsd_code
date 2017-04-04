@@ -18,7 +18,7 @@ clc;
 %quiz 2
 %----
 
-terms = [0 1];
+terms = [1 1];
 
 for i = 3 : 1 : 100
   terms ( i ) = terms (i - 2 ) + terms ( i - 1 )
