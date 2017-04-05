@@ -23,6 +23,7 @@ f = 7;
 while d > f
   d = d + 1;
   e = e – 1;
+  printf("loop has gone through one more interation\r\n");
 end
 d
 e
@@ -52,7 +53,8 @@ while m < n
 m = m + 1;    
 end
 while    
-  j = j + 1 
+  j = j + 1
+  printf( "j = %i - k = %i - n = %i - m = %i\r\n", j,k,n,m );
 end
 
 %problem E
