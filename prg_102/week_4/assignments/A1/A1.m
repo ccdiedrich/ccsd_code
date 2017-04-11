@@ -9,7 +9,7 @@ usedAmount  = 5000;
 bothAtEof = "N"
 HIGH_NAME = "ZZZZZ"
       
-newSales = fopean( "newSales.dat","w";
+newSales = fopean( "newSales.dat","r";
 fprintf( "hello world"
       InputFile usedSales
       OutputFile allsales 
